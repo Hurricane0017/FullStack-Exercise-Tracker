@@ -1,0 +1,8 @@
+->npm init to ceate package.json file
+->npm i "express"(framework for nodejs) "cors"-provide express middleware(cross origin resource sharing, can access something outside of our server from our server) "mongoose" "dotenv"
+
+->uri are for locating database 
+->all other lines of code for connecting and checking connection 
+
+->then schema in user models,contains different datas that needed to be sent and then their type ,required or not and unique,trim and minlength
+->
